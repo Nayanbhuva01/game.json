@@ -35,6 +35,13 @@
       "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
       "gamename": "Temple Run 2: Holi Festival",
       "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
+    },
+    {
+      "id": "5",
+      "gameurl": "https://poki.com/en/g/jetpack-joyride#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/d5d34cb9ce7b617b93338982aa0958ab.png",
+      "gamename": "Jetpack Joyride",
+      "gamedes": "Jetpack Joyride"
     }
   ],
   "suggested": [
@@ -214,7 +221,63 @@
       "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/d1c6546dfd7ef57b701d18516586846c.png",
       "gamename": "Super Kill-BOI 9000",
       "gamedes": ""
-    }
+    },
+    {
+      "id": "13",
+      "gameurl": "https://games.cdn.famobi.com/html5games/d/diamond-rush/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=395b0746-6d0e-4ec8-b11c-18cab8009214&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=207&original_ref=https%3A%2F%2Ffamobi.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRushTeaser.jpg",
+      "gamename": "Diamond Rush",
+      "gamedes": "Diamond Rush is all about 60 thrilling seconds of exploding jewels and beating the highscore. Switch jewels with a swipe of your finger to match 3 or more of them together. The more similar jewels you connect at once the better."
+    },
+    {
+      "id": "14",
+      "gameurl": "https://games.cdn.famobi.com/html5games/g/gold-mine/v200/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b358f423-2ad1-4f9b-b81f-6118ee9778a9&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=226&original_ref=https%3A%2F%2Ffamobi.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoldMineTeaser.jpg",
+      "gamename": "Gold Mine - The Connect Game for Gold Diggers",
+      "gamedes": "Gold Mine is a Connect 3 game with unlimited levels, which means the time you can play is only limited by your Match 3 skills. And your greed for that matter. You would not be the first person to be seized by the gold rush! Are you a worthy Gold Miner?"
+    },
+    {
+      "id": "15",
+      "gameurl": "https://games.cdn.famobi.com/html5games/0/3d-free-kick/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2ee096ab-4cd7-4f9a-baa9-f58a54413c47&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=225&original_ref=https%3A%2F%2Ffamobi.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dFreeKickTeaser.jpg",
+      "gamename": "3D Free Kick",
+      "gamedes": "To shoot a spectacular goal you need exactly two swipes in this football game. The first one gets the ball moving. You can control the direction and altitude of your shot with the first flick. The faster you swipe, the higher and faster the ball will fly."
+    },
+    {
+      "id": "16",
+      "gameurl": "https://games.cdn.famobi.com/html5games/d/diamond-rush-2/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d2e4616c-9cb2-4e7f-aa73-abe0c7e295fe&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=228&original_ref=https%3A%2F%2Ffamobi.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRush2Teaser.jpg",
+      "gamename": "Diamond Rush 2",
+      "gamedes": "Just like in Diamond Rush, you beat the clock and destroy as many jewels as possible. But this time you have up to 5 Planets to discover and 15 Levels to beat. The further you go, the harder it gets, so achieve the highest combo possible!"
+    },
+    {
+      "id": "17",
+      "gameurl": "https://games.cdn.famobi.com/html5games/u/uncle-ahmed/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7c74de77-0a68-43e4-83ee-e35193fe0c13&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=231&original_ref=https%3A%2F%2Ffamobi.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/UncleAhmedTeaser.jpg",
+      "gamename": "Uncle Mario",
+      "gamedes": "Oh no! Uncle Mario's favorite nephew has been kidnapped, and now he needs your help to save him from the dark magician!"
+    },
+    {
+      "id": "18",
+      "gameurl": "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=236&original_ref=https%3A%2F%2Ffamobi.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SolitaireKlondikeTeaser.jpg",
+      "gamename": "Solitaire Klondike",
+      "gamedes": "Welcome to Klondike Solitaire, a patience game played by millions all around the world. As a classic single player game, Klondike Solitaire challenges your brain and your patience alike."
+    },
+    {
+      "id": "19",
+      "gameurl": "https://games.cdn.famobi.com/html5games/b/bubbles-shooter/11-2be95/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2851855c-432c-4b79-be04-e1b1e0d23899&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=235&original_ref=https%3A%2F%2Ffamobi.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubblesShooterTeaser.jpg",
+      "gamename": "Bubbles Shooter",
+      "gamedes": "Your task in this fun bubble shooter is to match at least 3 bubbles of the same color. Aim carefully, shoot, and try to remove as many bubbles as you can. Clear the whole field to continue to the next level. If you need a different color, use the swap feature to exchange bubbles. How many points can you score?"
+    },
+    {
+      "id": "20",
+      "gameurl": "https://poki.com/en/g/tictactoe#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/b72f31aa574acaa5cbf6b6c69104c988.png",
+      "gamename": "TicTacToe",
+      "gamedes": "TicTacToe"
+    },
   ],
   "toprating": [
     {
@@ -293,7 +356,21 @@
       "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/9c5e0de489bb6f6f99e9bb0bce8341ac.png",
       "gamename": "Tunnel Rush 2",
       "gamedes": "Tunnel Rush 2 is a skill game where you ride fast into colorful 3D tunnels and experience the exhilarating kaleidoscope of hazards and treasures."
-    }
+    },
+    {
+      "id": "11",
+      "gameurl": "https://poki.com/en/g/master-chess#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/505695b9-1b21-47fd-a8e1-93345afb57de.png",
+      "gamename": "Master Chess",
+      "gamedes": "Master Chess"
+    },
+    {
+      "id": "12",
+      "gameurl": "https://poki.com/en/g/snake-vs-worms#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=204,height=204,fit=cover,f=auto/45fec2af2d9ef7d08bcbba56699f3339.jpeg",
+      "gamename": "Snake vs Worms",
+      "gamedes": "Snake vs Worms"
+    },
   ],
   "topcharting": [
     {
